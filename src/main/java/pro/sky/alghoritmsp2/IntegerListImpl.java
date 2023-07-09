@@ -97,3 +97,4 @@ public class IntegerListImpl implements IntegerList {
         storage = newStorage;
     }
 }
+
